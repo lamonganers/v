@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://akhirnyaakubisa.vercel.app/sitemap.xml
